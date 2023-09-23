@@ -108,9 +108,6 @@ namespace ProyectoMaquina.View
 
                 }
 
-                // Tengo un problemita chiquito no me quiere sumar las monedas de 500, 200, 100, 50 para pagar y darle el cambio nose porque, no pude solucionarlo
-                // Comparar precio producto vs suma_billetes. hacer calculo
-
                 else if (input_cliente == "p")
                 {
                     Console.WriteLine("Bienvenido proveedor");
